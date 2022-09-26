@@ -30,7 +30,7 @@ The repository also holds the jupyter notebook and the html summary presentation
 **Additional resources:** 
 Here are some of the materials I consulted while builiding this project:
 
--**General and comprehensive (also additional ideas for plots):** \n
+-**General and comprehensive (also additional ideas for plots):**  
 https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
 
 -**Georeferencing:** 
