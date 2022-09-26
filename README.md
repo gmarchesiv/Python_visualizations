@@ -26,3 +26,27 @@ The data is analyzed using the following visualizations:
 - Linear regression
 
 The repository also holds the jupyter notebook and the html summary presentation. 
+
+Additional resources: 
+Here are some of the materials I consulted while builiding this project:
+
+**General and comprehensive (also additional ideas for plots):** 
+https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/
+
+**Georeferencing:** 
+https://towardsdatascience.com/the-easiest-way-to-plot-data-from-pandas-on-a-world-map-1a62962a27f3
+https://stackoverflow.com/questions/72476936/how-to-map-geographical-data-from-dataframe-on-map
+https://geopandas.org/en/stable/gallery/plotting_basemap_background.html
+
+**Horizontal stacked bar charts:**  
+https://stackoverflow.com/questions/16653815/horizontal-stacked-bar-chart-in-matplotlib
+
+**Markers and tick labels:**
+https://matplotlib.org/stable/api/markers_api.html
+https://www.delftstack.com/howto/matplotlib/how-to-set-tick-labels-font-size-in-matplotlib/
+
+**Colors and palettes:**
+https://matplotlib.org/2.0.2/examples/color/named_colors.html
+https://seaborn.pydata.org/tutorial/color_palettes.html
+
+
