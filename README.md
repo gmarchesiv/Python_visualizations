@@ -1,14 +1,27 @@
-# Python_visualizations
+# Quickstart_EDA_visualizations
 
-This notebook explores commercial airplane flight delays in the United States from 2011 to 2020 using Python's visualization capabilities in Matplotlib and Seaborn. The dataset contains flight statistics for all airports in the United States. Each observation is reported by month, year, airport and airline. Flights can be categorized as ontime, delayed, cancelled or diverted. Flight delays are attributed to five causes: carrier, weather, NAS, security and late aircraft.This work analyses the data through the lenses of seasonality, airport traffic, and airline performance.
+This repository contains two Jupiter notebooks: 
 
-The data was downloaded from the Bureau of Transportation Statistics website https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp. 
+- EDA_quickstart_airports
+- Visualizations_quickstart_airports
+
+The notebooks explore commercial airplane flight delays in the United States from 2011 to 2020 using Python's visualization capabilities in Matplotlib and Seaborn. 
+
+## EDA
+The data was downloaded from the Bureau of Transportation Statistics website https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp. The EDA notebook loads the data and performs a series of commands to format, clean, feature engineer and perform exploratory analysis. The corresponding csv files are:  
+
+- airline_delay_causes.rar
+- airport_latlong.csv
+
+The first dataset contains flight statistics for all airports in the United States. Each observation is reported by month, year, airport and airline. Flights can be categorized as ontime, delayed, cancelled or diverted. Flight delays are attributed to five causes: carrier, weather, NAS, security and late aircraft.This work analyses the data through the lenses of seasonality, airport traffic, and airline performance. The second csve 
 
 The clean dataset contains 158,102 observations. I have uploaded the compressed rar file to the repository. 
 
+## Visualizations
 The data is analyzed using the following visualizations: 
 
 - Bar chart
+- Bar chart subplots 
 - Lollipop chart
 - Tree maps 
 - Line plot
