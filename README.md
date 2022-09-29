@@ -18,7 +18,7 @@ The corresponding csv files are:
 - airline_delay_causes.rar
 - airport_latlong.csv
 
-The first dataset contains flight statistics for all airports in the United States. Each observation is reported by month, year, airport and airline. Flights can be categorized as ontime, delayed, cancelled or diverted. Flight delays are attributed to five causes: carrier, weather, NAS, security and late aircraft.This work analyses the data through the lenses of seasonality, airport traffic, and airline performance. The second csv contains the latitude and longitude of all US airports to merge into the main dataset. The notebook also exports the clean dataset, which contains 157,906 observations. 
+The first dataset contains flight statistics for all airports in the United States. Each observation is reported by month, year, airport, and airline. Flights can be categorized as on time, delayed, canceled or diverted. Flight delays are attributed to five causes: carrier, weather, NAS, security, and late aircraft.This work analyses the data through the lenses of seasonality, airport traffic, and airline performance. The second csv contains the latitude and longitude of all US airports to merge into the main dataset. The notebook also exports the clean dataset, which contains 157,906 observations. 
 
 ## Visualizations_quickstart_airports 
 
